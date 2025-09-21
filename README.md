@@ -1,4 +1,4 @@
- a
+
 # mindX Agent: Your AI-Powered Wellness Companion
 
 mindX Agent is a comprehensive web application designed to support users on their mental and emotional wellness journey. It combines AI-powered guidance, community features, and gamified challenges to create an engaging and personalized experience.
