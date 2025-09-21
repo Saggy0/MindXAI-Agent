@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-2",
+      "description": "User avatar 2",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-3",
+      "description": "User avatar 3",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-4",
+      "description": "User avatar 4",
+      "imageUrl": "https://picsum.photos/seed/avatar4/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-5",
+      "description": "User avatar 5",
+      "imageUrl": "https://picsum.photos/seed/avatar5/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-6",
+      "description": "User avatar 6",
+      "imageUrl": "https://picsum.photos/seed/avatar6/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "badge-yoga",
+      "description": "Yoga badge",
+      "imageUrl": "https://picsum.photos/seed/yoga/400/400",
+      "imageHint": "yoga pose"
+    },
+    {
+      "id": "badge-meditation",
+      "description": "Meditation badge",
+      "imageUrl": "https://picsum.photos/seed/meditation/400/400",
+      "imageHint": "calm lake"
+    },
+    {
+      "id": "badge-reading",
+      "description": "Reading badge",
+      "imageUrl": "https://picsum.photos/seed/reading/400/400",
+      "imageHint": "open book"
+    },
+    {
+      "id": "badge-walking",
+      "description": "Walking badge",
+      "imageUrl": "https://picsum.photos/seed/walking/400/400",
+      "imageHint": "forest path"
+    },
+    {
+      "id": "badge-workout",
+      "description": "Workout badge",
+      "imageUrl": "https://picsum.photos/seed/workout/400/400",
+      "imageHint": "gym equipment"
+    },
+    {
+      "id": "badge-hydration",
+      "description": "Hydration badge",
+      "imageUrl": "https://picsum.photos/seed/hydration/400/400",
+      "imageHint": "water splash"
+    }
+  ]
+}
